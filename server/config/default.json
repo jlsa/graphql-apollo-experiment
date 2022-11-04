@@ -1,0 +1,6 @@
+{
+  "db": {
+      "url": "postgres://localhost:5432/database-name-here",
+      "migration-filename-format": "utc"
+  }
+}

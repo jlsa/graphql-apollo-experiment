@@ -1,0 +1,2 @@
+npm i dotenv isemail nodemon sequelize sqlite3 --save
+npm i apollo-datasource apollo-datasource-rest apollo-server --save
